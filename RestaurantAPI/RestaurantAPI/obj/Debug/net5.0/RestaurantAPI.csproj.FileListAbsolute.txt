@@ -1,0 +1,320 @@
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\appsettings.json
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.exe
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.deps.json
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.runtimeconfig.json
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.runtimeconfig.dev.json
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ref\RestaurantAPI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.pdb
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.Views.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Humanizer.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.AssemblyInfoInputs.cache
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.AssemblyInfo.cs
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.csproj.CoreCompileInputs.cache
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticwebassets\RestaurantAPI.StaticWebAssets.Manifest.cache
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticwebassets\RestaurantAPI.StaticWebAssets.xml
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\scopedcss\bundle\RestaurantAPI.styles.css
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.csproj.CopyComplete
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\ref\RestaurantAPI.dll
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.pdb
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.genruntimeconfig.cache
+E:\WorkSpace\API .Net\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.csproj.AssemblyReference.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.csproj.AssemblyReference.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.dll.config
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.GeneratedMSBuildEditorConfig.editorconfig
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.AssemblyInfoInputs.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.AssemblyInfo.cs
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.csproj.CoreCompileInputs.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.MvcApplicationPartsAssemblyInfo.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\appsettings.Development.json
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\appsettings.json
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.exe
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.dll.config
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.deps.json
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.runtimeconfig.json
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.runtimeconfig.dev.json
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ref\RestaurantAPI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.pdb
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\RestaurantAPI.Views.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Humanizer.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.MvcApplicationPartsAssemblyInfo.cs
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticwebassets\RestaurantAPI.StaticWebAssets.Manifest.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticwebassets\RestaurantAPI.StaticWebAssets.xml
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\scopedcss\bundle\RestaurantAPI.styles.css
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.RazorTargetAssemblyInfo.cache
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.csproj.CopyComplete
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\ref\RestaurantAPI.dll
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.pdb
+W:\Study\React\Restaurant\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.genruntimeconfig.cache
